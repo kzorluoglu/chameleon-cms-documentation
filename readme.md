@@ -22,7 +22,7 @@ The documentation in this repository is generated using [phpDocumentor](https://
    After generating the documentation, commit and push the changes:
 
    ```bash
-   git add docs/api
+   git add .
    git commit -m "Update documentation for [component-name]"
    git push origin [branch-name]
    ```
